@@ -1,9 +1,11 @@
 # -*- coding: utf-8 -*-
 # Python 3
 # Copia arquivo se a data de modificacao for mais nova ou não existir outro arquivo no lugar.
+
 # Author:  Igor Vinicius Freitas de Souza
 # GitHub: https://github.com/igor1043
 # E-mail: igorviniciusfreitasouza@gmail.com
+
 import os
 import sys
 import shutil
