@@ -8,4 +8,4 @@ Copia arquivo para o servidor se a data de modificacao for mais nova ou não exi
 
 ## Autor
 
-* Igor Vincius Freitas de Souza
+* Igor Vincius Freitas de Souza 
